@@ -24,4 +24,5 @@ include(QExtendedTableWidget/QExtendedTableWidget.pri)
 
 ### Example
 
-![screenshot](screenshot/example_screenshot.gif)
+![screenshot](screenshots/screenshot1.png)
+![screenshot](screenshots/screenshot2.png)
