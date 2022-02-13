@@ -36,7 +36,6 @@ private:
 signals:
     void visibleColumnsChanged();
 
-
 };
 
 #endif // QEXTENDEDTABLEWIDGET_H
